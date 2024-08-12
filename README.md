@@ -36,7 +36,7 @@ This tool is more than just a time-saver; it’s a way to bring order to the cha
 - Run .bat file and Prompt will ask for Month in MM and Year in YYYY format.
 - Once given asked values; Folders equal to No of days in that month will be created with text file for each day in it.
 - Text file includes Welcome Message (Customizable) to start your day which you can customize in your code.
-
+- Make sure to keep both .py (Python) file and .bat (BATCH) File in same folder.
 Feel free to adjust the content to better fit your utility’s features and your personal style.
 
 If you need further customization or have specific requirements, let me know, and I’ll be happy to assist! Happy Journaling readers...! ✌
